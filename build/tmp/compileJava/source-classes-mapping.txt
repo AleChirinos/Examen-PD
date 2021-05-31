@@ -1,0 +1,49 @@
+singleton/ejemplos/logger/Director.java
+ singleton.ejemplos.logger.Director
+singleton/ejercicioTarea2/CasaDeCambio.java
+ singleton.ejercicioTarea2.CasaDeCambio
+singleton/basic/Client3.java
+ singleton.basic.Client3
+ singleton.basic.Client3$1
+ singleton.basic.Client3$2
+singleton/ejercicioTarea2/CambioDeMoneda.java
+ singleton.ejercicioTarea2.CambioDeMoneda
+singleton/ejercicioTarea2/LibreCambista.java
+ singleton.ejercicioTarea2.LibreCambista
+singleton/basic/Singleton4.java
+ singleton.basic.Singleton4
+singleton/ejemplos/logger/Profesor.java
+ singleton.ejemplos.logger.Profesor
+singleton/basic/Singleton1.java
+ singleton.basic.Singleton1
+singleton/basic/Client1.java
+ singleton.basic.Client1
+singleton/ejemplos/banco/Banco.java
+ singleton.ejemplos.banco.Banco
+singleton/ejemplos/logger/Cliente.java
+ singleton.ejemplos.logger.Cliente
+singleton/basic/Singleton3.java
+ singleton.basic.Singleton3
+singleton/ejemplos/logger/Estudiante.java
+ singleton.ejemplos.logger.Estudiante
+singleton/ejemplos/logger/Logger.java
+ singleton.ejemplos.logger.Logger
+singleton/ejemplos/banco/Client.java
+ singleton.ejemplos.banco.Client
+ singleton.ejemplos.banco.Client$1
+ singleton.ejemplos.banco.Client$2
+ singleton.ejemplos.banco.Client$3
+singleton/basic/Singleton2.java
+ singleton.basic.Singleton2
+singleton/basic/Client2.java
+ singleton.basic.Client2
+singleton/ejercicioTarea2/Banco.java
+ singleton.ejercicioTarea2.Banco
+singleton/ejemplos/banco/BancaMovil.java
+ singleton.ejemplos.banco.BancaMovil
+singleton/ejemplos/banco/Cajero.java
+ singleton.ejemplos.banco.Cajero
+singleton/ejercicioTarea2/Cliente.java
+ singleton.ejercicioTarea2.Cliente
+singleton/ejemplos/banco/SucursalBanco.java
+ singleton.ejemplos.banco.SucursalBanco
