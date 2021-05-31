@@ -4,18 +4,18 @@ public class Bife extends BuilderParrilla{
 
     @Override
     public void buildTipoDeCarne() {
-        parrilla.setTipoDeCarne("bife");
+        parrilla.setTipoDeCarne("Bife");
     }
 
     @Override
     public void buildSaborRefresco() {
-        parrilla.setSaborRefresco("CocaCola");
+        parrilla.setSaborRefresco("Coca Cola");
 
     }
 
     @Override
     public void buildGuarniciones() {
-        parrilla.setGuarniciones("papasFritas");
+        parrilla.setGuarniciones("Papas fritas");
 
     }
 

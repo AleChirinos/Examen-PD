@@ -4,18 +4,18 @@ public class Lomito extends BuilderParrilla {
 
     @Override
     public void buildTipoDeCarne() {
-        parrilla.setTipoDeCarne("lomo");
+        parrilla.setTipoDeCarne("Lomito");
     }
 
     @Override
     public void buildSaborRefresco() {
-        parrilla.setSaborRefresco("pepsi");
+        parrilla.setSaborRefresco("Pepsi");
 
     }
 
     @Override
     public void buildGuarniciones() {
-        parrilla.setGuarniciones("arroz");
+        parrilla.setGuarniciones("Arroz");
 
     }
 

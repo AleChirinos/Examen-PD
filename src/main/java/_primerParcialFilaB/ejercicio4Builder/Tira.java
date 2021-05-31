@@ -4,18 +4,18 @@ public class Tira extends BuilderParrilla{
 
     @Override
     public void buildTipoDeCarne() {
-        parrilla.setTipoDeCarne(": tira de carne");
+        parrilla.setTipoDeCarne("Tira de carne");
     }
 
     @Override
     public void buildSaborRefresco() {
-        parrilla.setSaborRefresco("CocaCola");
+        parrilla.setSaborRefresco("Coca Cola");
 
     }
 
     @Override
     public void buildGuarniciones() {
-        parrilla.setGuarniciones("fideo");
+        parrilla.setGuarniciones("Fideo");
 
     }
 
